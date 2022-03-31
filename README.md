@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/static-landing-page-using-flexbox-rJIAfY7mc)
 - Live site URL: [Add Live site URL](https://danielaruiza.github.io/qr-code-component/)
 
 ### Built with
